@@ -13,7 +13,7 @@ The dataset contains information scraped from Amazon product pages, including:
 stored as comma-separated values
 Total Records: 1,465 rows
 TotalFields: 16 columns
-3. Analysis Tasks
+### 3. Analysis Tasks
 Use pivot tables and calculated columns where necessary to answer the following:
 1. What is the average discount percentage by product category?
 2. How many products are listed under each category?
