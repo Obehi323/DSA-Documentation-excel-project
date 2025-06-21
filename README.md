@@ -1,5 +1,5 @@
 # DSA-Documentation
-Case Study 1: Amazon Product Review Analysis
+## Case Study 1: Amazon Product Review Analysis
 1. Company Overview
 You are working as a Junior Data Analyst at RetailTech Insights, a company that provides
 e-commerce analytics solutions to sellers on platforms like Amazon. Your team has been
@@ -36,7 +36,7 @@ Using your cleaned dataset and pivot outputs, build an Excel dashboard. Unleash 
 Creativity
 
 
-✨ Case Study 2: Kultra Mega Stores Inventory
+## ✨ Case Study 2: Kultra Mega Stores Inventory
 1. Company Overview
 Kultra Mega Stores (KMS), headquartered in Lagos, specialises in office supplies and
 furniture. Its customer base includes individual consumers, small businesses (retail), and
